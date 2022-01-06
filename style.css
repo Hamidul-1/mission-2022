@@ -10,6 +10,9 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-family: 'Island Moments', cursive;
+}
 
 .orange-color {
     color: orange;
@@ -135,6 +138,8 @@ h1 {
 
 }
 
+
+
 .color {
-    color:silver;
+    color: rgb(51, 40, 40);
 }
