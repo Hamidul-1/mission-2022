@@ -1,6 +1,9 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
+
+
+
 }
 
 h1 {
@@ -111,4 +114,27 @@ h1 {
     background-image: url(images/shapes/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+
+/*Fifth*/
+.fifth {
+    padding: 12%;
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 50%;
+    text-align: center;
+
+}
+
+/*Last-one*/
+.last {
+    background-color: lightslategray;
+    text-align: center;
+
+}
+
+.color {
+    color:silver;
 }
