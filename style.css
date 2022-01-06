@@ -130,13 +130,20 @@ h2 {
 
 /*Last-one*/
 .last {
-    background-color: lightslategray;
+    background-color: black;
     text-align: center;
 
 }
 
+h2 {
+    color: rgb(221, 129, 129);
+}
+
+footer {
+    color: white;
+}
 
 
 .color {
-    color: rgb(51, 40, 40);
+    color: white;
 }
