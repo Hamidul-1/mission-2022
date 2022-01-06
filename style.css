@@ -83,3 +83,32 @@ h1 {
     width: 250px;
     border: 1p solid grey;
 }
+
+/*Third*/
+.top {
+    background-image: url(images/shapes/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.flexible {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.half img {
+    width: 70%;
+    padding: 5%;
+
+}
+
+.test {
+    width: 100%;
+    padding: 5%;
+}
+
+/*Forth*/
+.down {
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
